@@ -2,6 +2,8 @@
 
 *.log
 
+*.csv
+
 /target
 
 /bin
